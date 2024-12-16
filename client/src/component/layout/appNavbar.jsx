@@ -46,7 +46,7 @@ const AppNavbar = () => {
                     href="mailto:azizulhakim68178@gmail.com"
                     className="ms-2 text-white "
                   >
-                    azizulhakim68178@gmail.com
+                    azizulhakim@gmail.com
                   </a>
                 </span>
                 <span className="f-12 mx-2">
