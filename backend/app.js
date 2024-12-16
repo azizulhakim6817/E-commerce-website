@@ -13,7 +13,7 @@ const mongoose = require("mongoose");
 const path = require("path");
 
 // MongoDB connection....................................................
-const URL = "mongodb://localhost:27017/18-pre-record-videoes";
+const URL = "mongodb+srv://azizulhakim68178:azizulhakim68178@cluster0.bd9lr.mongodb.net//Ecommerc-website";
 mongoose
   .connect(URL, {
     useNewUrlParser: true,
