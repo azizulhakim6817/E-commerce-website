@@ -34,7 +34,7 @@ const AppNavbar = () => {
 
   return (
     <>
-      {/* Announcement bar................................................................................ */}
+      {/* Announcement bar................................................. */}
       <div className="container-fluid text-white p-2 bg-dark">
         <div className="container">
           <div className="row justify-content-around">
